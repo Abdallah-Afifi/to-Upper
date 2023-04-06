@@ -1,8 +1,4 @@
-/*
-Abdallah Afifi
-900225283
-Problem 1
-*/
+
 
 #include <iostream>
 using namespace std;
